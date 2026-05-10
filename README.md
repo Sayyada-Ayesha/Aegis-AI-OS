@@ -44,3 +44,11 @@ Aegis AI is built on a modular hybrid architecture:
 ├── contracts/           # Smart Contract ABIs and interfaces
 ├── assets/              # Architecture diagrams and UI screenshots
 └── .env.example         # Template for environment variables
+
+```
+📩 Contact & Support
+Founder: Sayyada Ayesha
+
+Agency: SYNX AI Horizon
+
+Status: Scheduled for Global Launch on Product Hunt!
